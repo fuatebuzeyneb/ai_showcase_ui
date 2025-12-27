@@ -64,7 +64,7 @@ lib/
 			 
 ## 🎥 Demo
 
-Video demo coming soon.  
+[Video demo coming soon.  ](https://www.linkedin.com/posts/fuat-ebuzeyneb-b7b29b282_flutter-uiux-mobiledevelopment-activity-7409478730932244480-5lRq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES94c8BVLgnOgOL9RVspCR5nzXgCZ9r-bw)
 **Recommended recording length:** 12–15 seconds
 
 ---
